@@ -87,6 +87,7 @@ Plugins that enhance Claude Code's memory and context awareness.
 - [claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) — 340 plugins + 1367 agent skills with CCPI package manager. ![Stars](https://img.shields.io/github/stars/jeremylongshore/claude-code-plugins-plus-skills?style=flat-square)
 - [career-ops](https://github.com/santifer/career-ops) — AI-powered job search system with 14 skill modes. ![Stars](https://img.shields.io/github/stars/santifer/career-ops?style=flat-square)
 - [ralph-wiggum-marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer) — Autonomous AI copywriter plugin. ![Stars](https://img.shields.io/github/stars/muratcankoylan/ralph-wiggum-marketer?style=flat-square)
+- [agent-notifications](https://github.com/777genius/agent-notifications) — Desktop and webhook alerts for Claude Code, with sounds and click-to-focus on macOS, Linux and Windows. ![Stars](https://img.shields.io/github/stars/777genius/agent-notifications?style=flat-square)
 
 ## Plugin Development
 
